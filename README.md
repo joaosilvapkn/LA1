@@ -27,3 +27,6 @@ Para linux:
     2. Jogador perde se ficam sem hp, resultante de colidir com os bots e os bosses
     
     3. Jogador ganha recupera hp ao apanhar o coração, em cada portal, depois de derrotar o Boss
+
+
+Nota final: 12
